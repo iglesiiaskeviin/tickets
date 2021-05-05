@@ -1,0 +1,18 @@
+body{
+    background-color: #ccc;
+}
+.table-body{
+    text-align: center;
+    padding: 1.2rem;
+}
+
+.table-body, td{
+    padding: 1.2rem;
+    margin: auto;
+    font-weight: 500;
+}
+
+.table-head tr{
+    text-align: center;
+}
+
